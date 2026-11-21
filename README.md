@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Audio-Synthesis-Digital-Audio-Workstation/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Audio-Synthesis-Digital-Audio-Workstation?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Audio-Synthesis-Digital-Audio-Workstation/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Audio-Synthesis-Digital-Audio-Workstation?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Audio-Synthesis-Digital-Audio-Workstation/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Audio-Synthesis-Digital-Audio-Workstation?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Audio-Synthesis-Digital-Audio-Workstation/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Audio-Synthesis-Digital-Audio-Workstation?style=flat-square&color=blue" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -72,31 +72,31 @@ Explore the finest open-source digital audio workstations, synthesis engines, an
 
 ### 🎚️ Full Digital Audio Workstations & Studio Suites
 
-1. **[Tone.js](https://github.com/Tonejs/Tone.js)** [![GitHub stars](https://img.shields.io/github/stars/Tonejs/Tone.js?style=social&color=white)](https://github.com/Tonejs/Tone.js/stargazers)  
+1. **[Tone.js](https://github.com/Tonejs/Tone.js)** [![GitHub_Stars](https://img.shields.io/github/stars/Tonejs/Tone.js?style=social&color=white)](https://github.com/Tonejs/Tone.js/stargazers)  
    **A comprehensive Web Audio framework for making interactive music and synthesizers in the browser.** Provides Web Audio building blocks, polyphonic synthesis, audio routing, transport scheduling, effects chains, and microtiming synchronization.
-2. **[LMMS](https://github.com/LMMS/lmms)** [![GitHub stars](https://img.shields.io/github/stars/LMMS/lmms?style=social&color=white)](https://github.com/LMMS/lmms/stargazers)  
+2. **[LMMS](https://github.com/LMMS/lmms)** [![GitHub_Stars](https://img.shields.io/github/stars/LMMS/lmms?style=social&color=white)](https://github.com/LMMS/lmms/stargazers)  
    **Cross-platform open-source Digital Audio Workstation for music creation.** Features song-editor arrangement, beat/bassline sequencer, piano roll melody editing, full automation tracks, and extensive VST/LADSPA plugin support across Windows, macOS, and Linux.
-3. **[Mixxx](https://github.com/mixxxdj/mixxx)** [![GitHub stars](https://img.shields.io/github/stars/mixxxdj/mixxx?style=social&color=white)](https://github.com/mixxxdj/mixxx/stargazers)  
+3. **[Mixxx](https://github.com/mixxxdj/mixxx)** [![GitHub_Stars](https://img.shields.io/github/stars/mixxxdj/mixxx?style=social&color=white)](https://github.com/mixxxdj/mixxx/stargazers)  
    **Free, open-source professional DJ software.** Offers dual or quad decks with BPM detection, automated sync, master tempo key-shifting, vinyl emulation, MIDI/HID controller mappings, and live broadcast capabilities.
-4. **[SuperCollider](https://github.com/supercollider/supercollider)** [![GitHub stars](https://img.shields.io/github/stars/supercollider/supercollider?style=social&color=white)](https://github.com/supercollider/supercollider/stargazers)  
+4. **[SuperCollider](https://github.com/supercollider/supercollider)** [![GitHub_Stars](https://img.shields.io/github/stars/supercollider/supercollider?style=social&color=white)](https://github.com/supercollider/supercollider/stargazers)  
    **An audio server, programming language, and IDE for sound synthesis and algorithmic composition.** Industry standard for electroacoustic research, real-time sound processing, live coding, and generative acoustic architecture.
-5. **[Ardour](https://github.com/ardour/ardour)** [![GitHub stars](https://img.shields.io/github/stars/ardour/ardour?style=social&color=white)](https://github.com/ardour/ardour/stargazers)  
+5. **[Ardour](https://github.com/ardour/ardour)** [![GitHub_Stars](https://img.shields.io/github/stars/ardour/ardour?style=social&color=white)](https://github.com/ardour/ardour/stargazers)  
    **Professional-grade open-source hard disk recorder and digital audio workstation.** Built for sound engineers, musicians, and soundtrack editors requiring unlimited multi-track recording, non-linear editing, mastering, and full LV2/VST/AU plugin compatibility.
-6. **[Bespoke Synth](https://github.com/BespokeSynth/BespokeSynth)** [![GitHub stars](https://img.shields.io/github/stars/BespokeSynth/BespokeSynth?style=social&color=white)](https://github.com/BespokeSynth/BespokeSynth/stargazers)  
+6. **[Bespoke Synth](https://github.com/BespokeSynth/BespokeSynth)** [![GitHub_Stars](https://img.shields.io/github/stars/BespokeSynth/BespokeSynth?style=social&color=white)](https://github.com/BespokeSynth/BespokeSynth/stargazers)  
    **Node-based modular synthesizer and digital audio workstation.** Built from scratch with patching cords connecting custom synths, step sequencers, sample slicers, and macro controllers in an infinite, freeform creative canvas.
-7. **[Surge XT](https://github.com/surge-synthesizer/surge)** [![GitHub stars](https://img.shields.io/github/stars/surge-synthesizer/surge?style=social&color=white)](https://github.com/surge-synthesizer/surge/stargazers)  
+7. **[Surge XT](https://github.com/surge-synthesizer/surge)** [![GitHub_Stars](https://img.shields.io/github/stars/surge-synthesizer/surge?style=social&color=white)](https://github.com/surge-synthesizer/surge/stargazers)  
    **Incredible open-source hybrid synthesizer (VST3, AU, CLAP, LV2, Standalone).** Features 3 oscillators per voice with wavetable, FM, modern unison, ring modulation, flexible dual filter configurations, and deep modulation matrix routing.
-8. **[Helio Workstation](https://github.com/helio-fm/helio-workstation)** [![GitHub stars](https://img.shields.io/github/stars/helio-fm/helio-workstation?style=social&color=white)](https://github.com/helio-fm/helio-workstation/stargazers)  
+8. **[Helio Workstation](https://github.com/helio-fm/helio-workstation)** [![GitHub_Stars](https://img.shields.io/github/stars/helio-fm/helio-workstation?style=social&color=white)](https://github.com/helio-fm/helio-workstation/stargazers)  
    **Lightweight, distraction-free music composition tool and linear sequencer.** Modern cross-platform linear sequencer with built-in version control (Git-style history), chord suggestions, and seamless desktop/mobile workflow.
-9. **[openDAW](https://github.com/andremichelle/openDAW)** [![GitHub stars](https://img.shields.io/github/stars/andremichelle/openDAW?style=social&color=white)](https://github.com/andremichelle/openDAW/stargazers)  
+9. **[openDAW](https://github.com/andremichelle/openDAW)** [![GitHub_Stars](https://img.shields.io/github/stars/andremichelle/openDAW?style=social&color=white)](https://github.com/andremichelle/openDAW/stargazers)  
    **Next-generation web-based DAW with 30+ stock plugins and a roadmap to 1.0 in Q3 2026.** Runs entirely in the browser with no server roundtrip for audio, featuring subtractive synths (Vaporisateur), drum computers (Playfield), WebCLAP plugin hosting, and WASM audio engine processing.
-10. **[GridSound](https://github.com/gridsound/daw)** [![GitHub stars](https://img.shields.io/github/stars/gridsound/daw?style=social&color=white)](https://github.com/gridsound/daw/stargazers)  
+10. **[GridSound](https://github.com/gridsound/daw)** [![GitHub_Stars](https://img.shields.io/github/stars/gridsound/daw?style=social&color=white)](https://github.com/gridsound/daw/stargazers)  
     **Work-in-progress free browser-based DAW built directly on the Web Audio API.** Features modular canvas view, real-time audio routing, pattern sequencing, and local cloud saving with clean modern UI aesthetics.
-11. **[Csound](https://github.com/csound/csound)** [![GitHub stars](https://img.shields.io/github/stars/csound/csound?style=social&color=white)](https://github.com/csound/csound/stargazers)  
+11. **[Csound](https://github.com/csound/csound)** [![GitHub_Stars](https://img.shields.io/github/stars/csound/csound?style=social&color=white)](https://github.com/csound/csound/stargazers)  
     **Time-tested, highly flexible sound and music synthesis system.** Provides hundreds of synthesis opcodes, spectral analysis tools, and language bindings for C, C++, Python, Java, and WebAssembly.
-12. **[WAM-Studio](https://github.com/Brotherta/wam-studio)** [![GitHub stars](https://img.shields.io/github/stars/Brotherta/wam-studio?style=social&color=white)](https://github.com/Brotherta/wam-studio/stargazers)  
+12. **[WAM-Studio](https://github.com/Brotherta/wam-studio)** [![GitHub_Stars](https://img.shields.io/github/stars/Brotherta/wam-studio?style=social&color=white)](https://github.com/Brotherta/wam-studio/stargazers)  
     **Academic open-source DAW implementing W3C standards (Web Audio, Web MIDI, WebAssembly, Web Audio Modules).** Features synchronized multi-track audio/MIDI recording, region editing, FX plugin racks, latency compensation, and browser-native mixing.
-13. **[WAVR PRO](https://github.com/oliego-ai/WavrPro)** [![GitHub stars](https://img.shields.io/github/stars/oliego-ai/WavrPro?style=social&color=white)](https://github.com/oliego-ai/WavrPro/stargazers)  
+13. **[WAVR PRO](https://github.com/oliego-ai/WavrPro)** [![GitHub_Stars](https://img.shields.io/github/stars/oliego-ai/WavrPro?style=social&color=white)](https://github.com/oliego-ai/WavrPro/stargazers)  
     **Zero-install, client-side browser DAW with local-first data protection.** Features multi-track timeline, 6-band parametric EQ per track, 5 visualizer modes (oscilloscope, spectrum, VU meter), IndexedDB session storage, and standalone single-file distribution (`wavr-pro.html`).
 
 ---
@@ -106,7 +106,7 @@ Explore the finest open-source digital audio workstations, synthesis engines, an
 Contributions to this ecosystem list are warmly welcomed! 
 
 1. 🍴 **Fork** this repository.
-2. 📝 **Add or update** entries in `README.md` following the established table and star badge formats.
+2. 📝 **Add or update** entries in `README.md` following the established table and Stars_Badge formats.
 3. 🔍 **Verify details**: Ensure product links, pricing plans, free tier constraints, or GitHub repository links are accurate.
 4. 🚀 **Submit a Pull Request** with a descriptive summary of your changes.
 
