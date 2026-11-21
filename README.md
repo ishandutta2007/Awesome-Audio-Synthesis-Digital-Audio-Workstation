@@ -15,27 +15,25 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
 
 ## Table of Contents
-- [SaaS/Hosted Platforms](#saas-products)
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
+- [SaaS Products](#saas-products)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
 
-## SaaS/Hosted Platforms
+## Sector Overview & Market Dynamics
 
-- **[BandLab](https://www.bandlab.com/)**  
-  **Completely free browser and mobile DAW with social collaboration.** **436+ virtual instruments, 250,000+ royalty-free loops and one-shots, and 50 collaborators per project** . **Free mastering** with presets by Grammy-winning engineers. **AI tools**: SongStarter (idea generator) and Splitter (stem isolation) . **No paid tier required for core music creation**—Pro/Max plans add extra stems and voice cleanup . Best for beginners and mobile-first creators wanting a zero-cost entry into music production .
+The global Digital Audio Workstation (DAW) and audio synthesis software market is estimated at approximately $4.0B–$4.7B as of 2025–2026, expanding at a CAGR of ~7–9% toward over $6B by 2031. The sector exhibits moderate-to-high fragmentation rather than a single winner-take-all monopoly: while legacy desktop incumbents (such as Apple Logic Pro, Avid Pro Tools, and Ableton Live) dominate pro studios and enterprise giants like Spotify back consumer platforms, agile independent players and specialized browser-based freemium ecosystems (BandLab, Amped Studio, Audiotool) thrive across educational, social creator, and collaborative niches.
 
-- **[Soundtrap (Spotify)](https://www.soundtrap.com/)**  
-  **Browser-based collaborative DAW with Spotify backing.** **Free tier: 7,760+ loops, 450+ instruments, 20+ vocal presets** . **Sound Starter: $9.59/mo** (annual); **Music Production: $15.59/mo**; **Production & Vocals: $14.79/mo** with 39,820+ loops and 1,800+ instruments . **7-day free trial** for paid plans . Best for education and indie markets needing a polished, Spotify-integrated workflow .
+## SaaS Products
 
-- **[Audiotool](https://www.audiotool.com/)**  
-  Advanced collaborative browser DAW with built-in synthesizers, samplers, mixers, and effects. Positioned for real-time online music production .
-
-- **[Amped Studio](https://ampedstudio.com/)**  
-  **Full-featured browser DAW with VST3 plugin hosting via VST Remote.** **Free DAW** for recording, beats, MIDI, instruments, effects, and mixing—**no time limit, no demo restrictions** . **AI stem separation** and **AI multitrack sketch generation** built in. **Cloud project storage** accessible from any computer . Best for producers wanting desktop-DAW power in a browser with VST plugin access .
-
-- **[AudioSauna](https://chromewebstore.google.com/detail/audiosauna/lkgfemnodkdnenmfkblebnkjpckkjcae)**  
-  **Legacy browser audio workstation with virtual analog and FM synthesizers.** **100,000 users** on Chrome Web Store. **Two synths** (analog and 4-operator FM modeled on Yamaha DX-21), **advanced stereo sampler** with ping-pong looping and key range mapping . **⚠️ Last updated February 2014**—not recommended for new projects .
+| Product | Company Size (Valuation / Revenue) | Pricing | Free Tier Limits | Key Highlights |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Soundtrap](https://www.soundtrap.com/)** | **~$120B market cap** *(Parent: Spotify, NYSE: SPOT)* | **$9.59/mo** (Sound Starter, billed annually at $115.08/yr) or $11.99 billed monthly; Music Production at $13.59/mo ($16.99/mo monthly) | **Free Forever Tier**: MP3/OGG exports only (no WAV export), 7,760+ loops, 450+ instruments, 20+ vocal presets, no stem splitter/auto-tune. Paid plans include a **30-day free trial** with full feature access requiring credit card. | Browser collaborative DAW with Spotify integration, classroom education support, and cloud vocal tuning. |
+| **[BandLab](https://www.bandlab.com/)** | **$425M valuation** *(Series B1 post-money; ~$10M–$48M est. annual revenue)* | **$14.99/mo** or **$99.00/yr** (BandLab Pro Membership); $199.00/yr (BandLab Max) | **Free Forever Tier**: 16 tracks per project max, 20 samples/mo, 5 beats/wk, 436+ instruments, no major streaming service distribution without paid membership. | Social music creation platform with cloud mixdown, built-in stem splitter, SongStarter AI, and 50 collaborators per project. |
+| **[Audiotool](https://www.audiotool.com/)** | **~$2.6M total funding** *(Early-stage venture-backed by Unlock Venture Partners)* | **Free / $0/mo** (No paid subscription tiers; 100% free community platform) | **Free Forever Tier (Full Access)**: No track caps, no project length limits, 37 built-in synths/effects, modular cable routing, and real-time multiplayer DAW collaboration with zero paywalls. | Cloud-native modular routing synthesizer and DAW with Web Audio/VST3 bridge and active online musician community. |
+| **[Amped Studio](https://ampedstudio.com/)** | **Bootstrapped / Private** *(LettoPro SA, Montreux, Switzerland; ~$1M–$3M est. ARR)* | **$5.99/mo** (billed annually at $69.99/yr) or $6.99 billed monthly (Premium); $9.99/mo ($119.99/yr) for Pro | **Free Forever Tier**: Max 16 tracks, MP3-only export (no WAV/project export), 0GB cloud storage, 5 virtual instruments & 10 FX, no external VST3 support, ad-supported. Paid plans offer a **3-day free trial** with full access. | Online DAW featuring remote VST3 plugin hosting via desktop bridge, AI stem splitter, and sample sequencer. |
+| **[AudioSauna](https://chromewebstore.google.com/detail/audiosauna/lkgfemnodkdnenmfkblebnkjpckkjcae)** | **Micro-entity / Inactive** *(Naive Solutions, Helsinki, Finland)* | **Free / $0/mo** (Discontinued legacy web app) | **Free Forever Tier**: Browser session only, 2 synths (analog + 4-op FM Yamaha DX-21 style), 8-track stereo sampler with ping-pong looping, local file saving. *(Note: unmaintained since February 2014).* | Classic web audio synthesizer and sampler with Chrome Web Store deployment; historical precursor to modern web DAWs. |
 
 ## Open-Source GitHub Projects
 
